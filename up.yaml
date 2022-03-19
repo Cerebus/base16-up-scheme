@@ -1,0 +1,18 @@
+scheme: "Unified Platform"
+author: "tmiller@mitre.org"
+base00: "000000"                # pitch black
+base01: "262627"                # (interpolated)
+base02: "4c4d4e"                # (interpolated)
+base03: "727374"                # (interpolated)
+base04: "98999b"                # pms cool grey 7
+base05: "dad9d7"                # pms cool grey 1
+base06: "edeceb"                # (interpolated)
+base07: "ffffff"                # (white)
+base08: "802629"                # fired up
+base09: "ad9266"                # pms 7503
+base0A: "997940"                # jackpot
+base0B: "006b5b"                # go
+base0C: "7b98ac"                # pms 5425
+base0D: "185a7d"                # wet
+base0E: "894943"                # pms 7581
+base0F: "ffffff"                # (white)
